@@ -63,3 +63,16 @@ Your final report includes each of the following:
   * % Passing Math
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
+  
+  ## School Analysis
+  
+* When observing the data, the top five performing schools were all charter schools, while the bottom five were all district schools. In fact, when comparing all fifteen schools on their overall passing rate, charter schools ranked above district ones.
+  * Regarding future school budgets and priorities, we need to understand why all the schools under the district are not performing as well as schools operating under their own charter.
+* Passing rates among grade levels were consistent, independent of which school was being looked at, i.e. if 80% of 9th graders were passing at any individual school, roughly 80% of students were passing at the 10th, 11th, and 12th grade levels.
+* Passing rates have a negative correlation with how much money is spent relative to their student population. 
+  * The district schools had the largest populations, largest budgets, and lowest passing rates.
+  * We need to understand how schools are spending their budgets, as well as how charter schools are able to get by with some of the smallest budgets in the district.
+* Perhaps the most surprising finding was discovered when comparing school types. While charter schools had significantly higher scores and passing rates when it comes to math, it is not as simple to reach a conclusion with reading scores.
+  * The average reading score among charter schools was only 3 points higher than that among district ones, but district schools suffer a significant drop in their student population that is passing reading – roughly 16% lower than their charter counterparts.
+  * We need to possibly consult with the head of the reading department for the district and understand why this discrepancy exists.
+

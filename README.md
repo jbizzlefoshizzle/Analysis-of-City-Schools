@@ -1,5 +1,7 @@
 ## Analysis of City Schools
 
+![Education](Images/education.jpg)
+
 This project concerns the education sector.
 Assisting the Chief Data Scientist for this city's school district, I needed to help the school board and mayor make strategic decisions regarding future school budgets and priorities.
 

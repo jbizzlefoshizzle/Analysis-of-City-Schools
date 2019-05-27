@@ -13,15 +13,7 @@ The final report included each of the following:
 
 ### District Summary
 
-* A table of the district's key metrics, including:
-  * Total Schools
-  * Total Students
-  * Total Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
+![district summary](Images/pic1.png)
 
 ### School Summary
 
@@ -37,34 +29,34 @@ The final report included each of the following:
   * % Passing Reading
   * Overall Passing Rate (Average of the above two)
 
-### Top Performing, and Bottom Performing Schools (By Passing Rate)
+### Top Performing Performing Schools (By Passing Rate)
 
-* Tables that highlighted the top 5, and bottom 5, performing schools based on `Overall Passing Rate`. Included are:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
+![top 5](Images/pic2.png)
 
-### Math Scores by Grade, Reading Scores by Grade
+### Bottom Performing Performing Schools (By Passing Rate)
+![bottom 5](Images/pic3.png)
 
-* Tables that list the average Math, or Reading, Score for students of each grade level at each school.
+### Math Scores by Grade
 
-### Scores by School Spending, School Size, and School Type
+![math by grade](Images/pic4.png)
 
-* Tables that break down school performances based on `average Spending Ranges (Per Student)`. Included are:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math
-  * % Passing Reading
-  * Overall Passing Rate (Average of the above two)
+### Reading Scores by Grade
+
+![read by grade](Images/pic5.png)
+
+### Scores by School Spending
+
+![scores by money](Images/pic6.png)
+
+### Scores by School Size
+
+![scores by size](Images/pic7.png)
+
+### Scores by School Type
+
+![scores by type](Images/pic8.png)
   
-  ## School Analysis
+## School Analysis
   
 * When observing the data, the top five performing schools were all charter schools, while the bottom five were all district schools. In fact, when comparing all fifteen schools on their overall passing rate, charter schools ranked above district ones.
   * Regarding future school budgets and priorities, we need to understand why all the schools under the district are not performing as well as schools operating under their own charter.

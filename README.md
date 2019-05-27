@@ -9,7 +9,7 @@ I was asked to analyze the district-wide standardized test results.
 Given access to every student's math and reading scores, as well as various information on the schools they attend,
 my responsibility was to aggregate the data to and showcase trends in school performance.
 
-Your final report includes each of the following:
+The final report included each of the following:
 
 ### District Summary
 
